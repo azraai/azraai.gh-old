@@ -14,7 +14,40 @@
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
 
+#head.row
+{
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  height: 70px;
+}
+#head.row .black-bar
+{
+  height: 70px;
+}
+#head.row .black-bar img
+{
+  height: 60px;
+}
+
 #wrapper
 {
-  padding: 50px 0;
+  padding: 100px 0;
+}
+
+#metum
+{
+  position: fixed;
+  z-index: 2;
+  top: 100px;
+}
+#content
+{
+  margin-left: 340px;
+}
+
+.page.not-found .hero-unit
+{
+  background-color: #eee;
+  background-color: rgba(238, 238, 238, 0.7);
 }
