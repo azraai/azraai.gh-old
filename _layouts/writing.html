@@ -2,11 +2,27 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="span3">Bio</div>
-    <div class="span9">
-      {{ content }}
+<div id="wrapper">
+  <div class="container">
+    <div id="head" class="row">
+      <div class="span4">
+        <div class="black-bar">
+          <img src="{{ site.url }}/assets/img/potrait.thumb.stamp.jpg" alt="Ariff Azraai" />
+          <span>azraai.me</span>
+        </div>
+      </div>
+    </div>
+
+    <div id="main" class="row">
+      <div id="metum" class="span4">
+        <div class="box">
+          <h1>{{ page.title }}</h1>
+          <p class="meta">{{ page.date | date_to_string }}</p>
+        </div>
+      </div>
+      <div id="content" class="span8">
+        {{ content }}
+      </div>
     </div>
   </div>
 </div>
