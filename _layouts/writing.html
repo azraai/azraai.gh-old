@@ -4,24 +4,30 @@ layout: default
 
 <div id="wrapper">
   <div class="container">
-    <div id="head" class="row">
-      <div class="span4">
-        <div class="black-bar">
-          <img src="{{ site.url }}/assets/img/potrait.thumb.stamp.jpg" alt="Ariff Azraai" />
-          <span>azraai.me</span>
-        </div>
-      </div>
-    </div>
-
     <div id="main" class="row">
       <div id="metum" class="span4">
-        <div class="box">
+        <div class="box upper">
           <h1>{{ page.title }}</h1>
           <p class="meta">{{ page.date | date_to_string }}</p>
         </div>
+        
+        <div class="box lower">
+          {{ page.side }}
+        </div>
+        
+        <div class="opts">
+          <a class="btn" href="{{ site.url }}"><i class="icon-home"></i></a>
+        </div>
       </div>
+
       <div id="content" class="span8">
-        {{ content }}
+        <div class="box">
+          {{ content }}
+          
+          <div class="copyright">
+            &copy;{{ page.date | date: '%Y' }} Ariff Azraai. Works of mine except where is noted.
+          </div>
+        </div>
       </div>
     </div>
   </div>
