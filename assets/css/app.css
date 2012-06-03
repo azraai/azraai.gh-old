@@ -41,9 +41,52 @@
   z-index: 2;
   top: 100px;
 }
+#metum .box
+{
+  padding: 20px;
+}
+#metum .box.upper
+{
+  background-color: #e6e6e6;
+  background-color: rgba(230, 230, 230, 0.9);
+  -webkit-border-radius: 5px 5px 0px 0px;
+  -moz-border-radius: 5px 5px 0px 0px;
+  border-radius: 5px 5px 0px 0px;
+}
+#metum .box.lower
+{
+  background-color: #bababa;
+  background-color: rgba(186, 186, 186, 0.9);
+  -webkit-border-radius: 0px 0px 5px 5px;
+  -moz-border-radius: 0px 0px 5px 5px;
+  border-radius: 0px 0px 5px 5px;
+}
+#metum .opts
+{
+  text-align: right;
+  margin-top: 20px;
+}
+
 #content
 {
   margin-left: 340px;
+}
+#content .box
+{
+  background-color: #bababa;
+  background-color: rgba(186, 186, 186, 0.7);
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+#content .copyright
+{
+  font-size: 11px;
+  font-style: italic;
+  margin-top: 20px;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
 }
 
 .page.not-found .hero-unit
