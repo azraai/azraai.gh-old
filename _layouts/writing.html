@@ -16,7 +16,7 @@ layout: default
         </div>
         
         <div class="opts">
-          <a class="btn" href="{{ site.url }}"><i class="icon-home"></i></a>
+          <a class="btn" href="{% if page.section_url %}{{ page.section_url }}{% else %}{{ site.url }}{% endif %}"><i class="icon-home"></i></a>
         </div>
       </div>
 
