@@ -32,4 +32,4 @@ Fizik itu indah. Saat paling terindah adalah apabila Peter Higgs bertemu tuhan.
 
 Moga-moga kami bertakwa.
 
-_Dan orang-orang yang beriman, lelaki mahupun perempuan, sesetengahnya mengingatkan bagi sesetengahnya yang; mereka menyuruh untuk melakukan kebaikan, dan melarang daripada berbuat kejahatan; dan mereka mendirikan solat dan memberi zakat, serta taat kepada Allah dan Rasulnya. Mereka itu akan diberi rahmat oleh Allat; sessunguhnya Allah Maha Berkuasa lagi Maha Bijaksana_ Al-Quran 9:71.
+_Dan orang-orang yang beriman, lelaki mahupun perempuan, sesetengahnya mengingatkan bagi sesetengahnya yang; mereka menyuruh untuk melakukan kebaikan, dan melarang daripada berbuat kejahatan; dan mereka mendirikan solat dan memberi zakat, serta taat kepada Allah dan Rasulnya. Mereka itu akan diberi rahmat oleh Allat; sessunguhnya Allah Maha Berkuasa lagi Maha Bijaksana_ - Al-Quran 9:71.
