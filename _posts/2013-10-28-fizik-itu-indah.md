@@ -26,7 +26,7 @@ Mereka datang dan pergi, tetapi memori tetap tersimpan sampai bila-bila.
 
 Maka aku dah redha atas semua yang terjadi. Tuhan, buanglah perasaan ini sejauh-jauhnya.
 
-_ Dan kalau kalian semua kenal dia, doalah untuk dia. Dia lebih perlukan doa daripada kita semua._
+_Dan kalau kalian semua kenal dia, doalah untuk dia. Dia lebih perlukan doa daripada kita semua._
 
 Fizik itu indah. Saat paling terindah adalah apabila Peter Higgs bertemu tuhan.
 
