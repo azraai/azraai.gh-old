@@ -4,8 +4,6 @@ title: Fizik Itu Indah
 side: Saat kita redha adalah saat paling indah.
 ---
 
-# Fizik Itu Indah
-
 Dan. Fizik tetap indah. Sampai bila pun.
 Pertama kali bertemu juga dalam kuliah fizik.
 Pertama kali juga bercakap tentang Fizik (mungkin Matematik?).
