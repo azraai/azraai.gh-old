@@ -2,6 +2,7 @@
 layout: writings
 title: Padang Jarak Padang Terkukur
 side: Kereta Kebal
+---
 
 > dalam hati aku ada kereta kebal, sesiapa pun tak boleh masuk - 2 minggu lepas.
 > dah. tak nak cakap apa lagi. aku tak harap sangat pun. :P
