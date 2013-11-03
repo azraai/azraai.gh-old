@@ -1,5 +1,5 @@
 ---
-layout: writings
+layout: writing
 title: Padang Jarak Padang Terkukur
 side: Kereta Kebal
 ---
